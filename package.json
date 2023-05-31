@@ -1,0 +1,19 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "practic counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritorres/counter.git"
+  },
+  "author": "priscila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pritorres/counter/issues"
+  },
+  "homepage": "https://github.com/pritorres/counter#readme"
+}
